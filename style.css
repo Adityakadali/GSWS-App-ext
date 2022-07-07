@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html,
+body {
+  width: 400px;
+  height: 400px;
+  overflow-y: scroll;
+}
+
+nav {
+  text-align: center;
+  padding: 1.5em;
+  background-color: aqua;
+}
+
+table {
+  margin: 20px auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+th {
+  padding: 10px;
+  font-size: 1.5em;
+}
+
+td {
+  padding: 15px;
+  font-size: 1.3em;
+}
+
+li {
+  list-style: none;
+  padding: 3px;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "GSWS",
+  "author": "Aditya Kadali",
+  "version": "0.01",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "description": "Physical Docs"
+}
